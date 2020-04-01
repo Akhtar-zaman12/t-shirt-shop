@@ -1,0 +1,12 @@
+.bg_image{
+    background-image: url('../../asstes/images/bg_women.jpeg');
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+    height:400px;
+    margin: 25px;
+}
+
+.catagory_name{
+    font-size: 50;
+}
